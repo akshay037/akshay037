@@ -47,10 +47,9 @@
     </p>
     
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay037&show_icons=true&locale=en&layout=compact" alt="akshay037" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay037&show_icons=true&locale=en" alt="akshay037" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay037&" alt="akshay037" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay037&show_icons=true&locale=en&layout=compact" alt="akshay037" /></p>
 </div>
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=✨I%20love%20coding✨;&font=Pacifico&center=true&width=1000&height=75&color=37b39a&vCenter=true&size=50%22)
