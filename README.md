@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **pentacost037@gmail.com**
 
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/akshay037/" target="blank"><img align="center"
