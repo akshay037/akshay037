@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Front-End web development**
 
+- 💞️ I’m looking to collaborate on New Projects
+
 - 📫 How to reach me **pentacost037@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
