@@ -15,7 +15,7 @@
 
 - 💞️ I’m looking to collaborate on New Projects
 
-- 📫 How to reach me **pentacost037@gmail.com**
+- 📫 How to reach me **akshayteltumbade69@gmail.com**
 
 
 <h3 align="left">Connect with me :</h3>
