@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Coding" height="410" src="https://res.cloudinary.com/dag0y3zqk/image/upload/v1707930441/something-something_j4kcs5.jpg" position="relative" top="0" left="0">
+<img alt="Coding" height="350" src="https://res.cloudinary.com/dag0y3zqk/image/upload/v1707930991/Untitled-1_kldnpo.jpg" position="relative" top="0" left="0">
 </div>
 
 <div>
