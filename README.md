@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Mr. Akshay </h1>
 
-- 🌱 I’m currently learning **React JS, Python, SQL,**
+- 🌱 I’m currently learning **Node JS, Express, MongoDB**
 
 - 💬 Ask me about **Front-End web development**
 
