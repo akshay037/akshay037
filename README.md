@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <div align="center">
 <img alt="Coding" height="350" src="https://res.cloudinary.com/dag0y3zqk/image/upload/v1707931256/Untitled-1_gqlg95.jpg" position="relative" top="0" left="0">
 </div>
